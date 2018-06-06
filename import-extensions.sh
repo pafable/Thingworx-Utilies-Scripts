@@ -1,5 +1,4 @@
 #!/bin/bash
-#pafable@ptc.com 
 
 display_usage() {
    echo
