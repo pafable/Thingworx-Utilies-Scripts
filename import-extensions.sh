@@ -28,7 +28,7 @@ case $1 in
 esac
 
 
-############### Curls the rest of the jar files #########################
+################ Curls the rest of the jar files #########################
 echo
 echo -n " Enter full path of the TWX extensions directory: "
 read EXTDIR
